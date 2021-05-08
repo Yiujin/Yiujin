@@ -27,3 +27,4 @@
 
 <p align = "center">
 <img src="https://img.shields.io/badge/Velog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp  
+https://velog.io/@dust_potato
