@@ -26,4 +26,6 @@
 <h3 align = "center">:sparkles: dev diary :sparkles:</h3>
 
 <p align = "center">
-<img src="https://img.shields.io/badge/Velog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/(https://velog.io/@dust_potato)></a>
+<a href="https://velog.io/@dust_potato"><img src="https://img.shields.io/badge/Velog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+</p>
