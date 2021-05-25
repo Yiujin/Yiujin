@@ -22,10 +22,10 @@
 <p align = "center">generative model - GAN</p>
 <hr/>
 
-<!-- 
+
 <h3 align = "center">:sparkles: dev diary :sparkles:</h3>
- -->
-<!-- <p align = "center">
-<a href="https://velog.io/@dust_potato"><img src="https://img.shields.io/badge/Velog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/></a> -->
+
+<p align = "center">
+<a href="https://velog.io/@dust_potato"><img src="https://img.shields.io/badge/Velog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 </p>
