@@ -25,10 +25,25 @@
 
 <h3 align = "center">:sparkles: dev diary :sparkles:</h3>
 
-<p align = "center">
-<a href="https://velog.io/@dust_potato"><img src="https://img.shields.io/badge/Velog-1AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<div align="center" style="text-align:center">
+  
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@dustpotato/post-stats-update)](https://velog.io/@dustpopato) -->
+<a href="https://velog.io/@dustpotato"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dustpotato"/></a>
+  
+</div>
 
-</p>
+<br>
+
+<div align="center" style="text-align:center">
+      
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato&tag=머신러닝)](https://velog.io/@dust_popato)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato)](https://velog.io/@dust_popato)
+  
+</div>
+<br>
+
+
+
 <hr/>
 <details align = "center"><summary><b> [Repository Summary] </b> <i>(:point_left: Click)</i></summary>
       
