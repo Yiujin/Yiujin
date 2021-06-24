@@ -34,13 +34,13 @@
       
 ### 📄 Project
 
- Video to Cartoon (Image transition with GAN) : [repo](https://github.com/Yiujin/gradProject)  
+Your Cartoon Is (Image transition with GAN) : [repo](https://github.com/Yiujin/gradProject)  
  
- 머신러닝을 이용한 서울시 상권 분석 : [repo](https://github.com/Yiujin/machine-learning-commercial-analysis)
+ DYWC (머신러닝을 이용한 서울시 상권 분석) : [repo](https://github.com/Yiujin/machine-learning-commercial-analysis)
 
- 성냥 이미지 분류 : [repo](https://github.com/Yiujin/LICA-project)
+ LICA (성냥 이미지 방향/모양 판단) : [repo](https://github.com/Yiujin/LICA-project)
 
- 센서데이터를  사람의 자세 판단 : [repo](https://github.com/Yiujin/AI_lecture_final_project)      
+ AI class Project (센서데이터를 이용한 사람의 자세 판단) : [repo](https://github.com/Yiujin/AI_lecture_final_project)      
 
     
 ### 📖 Study
