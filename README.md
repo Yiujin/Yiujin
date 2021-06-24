@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
 </p>
       
-<p align = "center">:point_right: Techs that i'm currently learning </p>
-<p align = "center">generative model - GAN</p>
+<!-- <p align = "center">:point_right: Techs that i'm currently learning </p>
+<p align = "center">generative model - GAN</p> -->
 <hr/>
 
 
