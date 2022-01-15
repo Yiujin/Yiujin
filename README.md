@@ -53,9 +53,9 @@ Your Cartoon Is (Image transition with GAN) : [repo](https://github.com/Yiujin/g
  
  DYWC (머신러닝을 이용한 서울시 상권 분석) : [repo](https://github.com/Yiujin/machine-learning-commercial-analysis)
 
- LICA (성냥 이미지 방향/모양 판단) : [repo](https://github.com/Yiujin/LICA-project)
+ MLOps를 이용한 2세 얼굴 생성서비스 (AI Boostcamp final project) : [repo](https://github.com/Yiujin/final-project-level3-cv-02)
 
- AI class Project (센서데이터를 이용한 사람의 자세 판단) : [repo](https://github.com/Yiujin/AI_lecture_final_project)      
+ 마스크 정착용 여부 이미지 분류 대회 (AI Boostcamp p stage contest) : [repo](https://github.com/Yiujin/image-classification-level1-07)      
 
     
 ### 📖 Study
@@ -64,7 +64,7 @@ Your Cartoon Is (Image transition with GAN) : [repo](https://github.com/Yiujin/g
 
  Dacon [repo](https://github.com/Yiujin/DACON) / [Velog](https://velog.io/@dust_potato/series/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
           
- Cralwing [repo](https://github.com/Yiujin/Sephora_crawling) 
+<!--  Cralwing [repo](https://github.com/Yiujin/Sephora_crawling)  -->
 
 
 
