@@ -36,13 +36,13 @@
 
 <div align="center" style="text-align:center">
       
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato&tag=인공지능)](https://velog.io/@dust_potato)  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato&tag=boostcamp)](https://velog.io/@dust_potato)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato)](https://velog.io/@dust_potato)  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato)](https://velog.io/@dust_potato)
   
 </div>
 <br>
 
-
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato&tag=boostcamp)](https://velog.io/@dust_potato) -->
 
 <hr/>
 <details align = "center"><summary><b> [Repository Summary] </b> <i>(:point_left: Click)</i></summary>
