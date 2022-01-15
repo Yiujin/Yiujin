@@ -37,7 +37,7 @@
 <div align="center" style="text-align:center">
       
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato)](https://velog.io/@dust_potato)  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato)](https://velog.io/@dust_potato)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dust_potato&tag=boostcamp)](https://velog.io/@dust_potato)
   
 </div>
 <br>
